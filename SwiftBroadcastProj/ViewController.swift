@@ -12,7 +12,7 @@ import AVFoundation
 struct Preference {
     static let defaultInstance:Preference = Preference()
     
-    var uri:String? = "rtmp://10.14.219.31/live"
+    var uri:String? = "rtmp://10.14.219.36/live"
     var streamName:String? = "TMD"
 }
 
